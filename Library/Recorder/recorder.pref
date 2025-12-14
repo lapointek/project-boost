@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Name: Movie
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 30
+  take: 44
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -161,4 +161,4 @@ MonoBehaviour:
       type: {class: GifEncoderSettings, ns: UnityEditor.Recorder.Encoder, asm: Unity.Recorder.Editor}
       data:
         loop: 1
-        quality: 100
+        quality: 50
